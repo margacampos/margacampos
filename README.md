@@ -1,5 +1,5 @@
 <h1><img src="https://media.giphy.com/media/QvjeXTz8HXFWyMfpvx/giphy.gif" width="30"/><img src="https://media.giphy.com/media/Niyk3I37xmdLU1HL8t/giphy.gif" width="150"/><img src="https://media.giphy.com/media/QvjeXTz8HXFWyMfpvx/giphy.gif" width="30"/></h1>
-<p>My name is <b>Marga</b> and I am a <b>Full Stack Developer</b> at <img src="https://github.com/juancamposr/clikrs-frontend/blob/main/public/Clikrslogovectbb.svg#gh-light-mode-only" width="100"/></p>
+<p>My name is <b>Marga</b> and I am a <b>Full Stack Developer</b> at <img src="https://github.com/juancamposr/clikrs-frontend/blob/main/public/Clikrslogovectbb.svg#gh-light-mode-only" width="100"/><img src="https://user-images.githubusercontent.com/80516949/170157424-4166b587-082f-4799-b38b-74b3cfbded25.png#gh-dark-mode-only" width="100"/></p>
 
 ## Right now I am working on: 
 - Developing [The newsroom](https://mongo-db-hackathon-2022.vercel.app/): A project for the [2022 MongoDB Hackathon](https://www.mongodb.com/world-2022/hackathon).
