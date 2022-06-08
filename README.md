@@ -29,7 +29,7 @@ My name is **Marga** and I am a **Full Stack Developer** at [CLIKRS](https://www
 ## Things I love:
 <code>Animation <img src="https://media.giphy.com/media/hLPZbjV0KyHQI/giphy.gif" width="50"/> Reading <img src="https://media.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif" width="30"/> Singing <img src="https://media.giphy.com/media/W6FhqZdENkqha6ajqr/giphy.gif" width="30"/> Dancing <img src="https://media.giphy.com/media/J2T2uTE0POCSQ/giphy.gif" width="30"/> Traveling <img src="https://media.giphy.com/media/ckrbT1rPtrt1rGM19p/giphy.gif" width="30"/> </code>
 
-## Want to say hi? Don't be shy!
+## Want to say hi?
 I'm happy to talk or help when possible.
 
 
