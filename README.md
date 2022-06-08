@@ -35,12 +35,3 @@ I'm happy to talk or help when possible.
 
 ![Visitor Count](https://profile-counter.glitch.me/margacampos/count.svg)
 
-<!-- ## My favorite infinite loop:
-```
-while(somethingToLearn){
-  study();
-  eat();
-  create();
-  dance();
-}
-``` -->
