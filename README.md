@@ -3,9 +3,9 @@
 My name is **Marga** and I am a **Full Stack Developer** at [CLIKRS](https://www.clikrs.es/) <img src="https://user-images.githubusercontent.com/80516949/170364033-cd1c377d-bd1e-4587-8cb6-8cefea352c4f.png" width="50"/>
 
 ## Right now I am working on: 
-- Developing [The newsroom](https://mongo-db-hackathon-2022.vercel.app/): A project for the [2022 MongoDB Hackathon](https://www.mongodb.com/world-2022/hackathon).
+- First Place in the [2022 MongoDB Hackathon](https://www.mongodb.com/world-2022/hackathon)!! Project: [The newsroom](https://mongo-db-hackathon-2022.vercel.app/).
 - Studying for the [Exam DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-gb/learn/certifications/exams/dp-900?ocid=AID3032310_QSG_529839&mkt_tok=MTU3LUdRRS0zODIAAAGDwdyEXH3bXtIIFWPoISfVZ3S5OP88L7TXyLzEFHabHJ0kZMiPKXTzsb8VhaZn9mCuN_7MJpXIONXPjJVYlntldLwLxCHW1bO05d-mwtS9lWGugG5UT6_KUdgi).
-- Finishing the [CS50p](https://cs50.harvard.edu/python/2022/) problem sets.
+- Working on the [Data Visualization FreeCodeCamp Certification](https://www.freecodecamp.org/learn/data-visualization/)
 
 <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"/>
 
