@@ -1,19 +1,22 @@
 <h1><img src="https://media.giphy.com/media/QvjeXTz8HXFWyMfpvx/giphy.gif" width="30"/><img src="https://media.giphy.com/media/Niyk3I37xmdLU1HL8t/giphy.gif" width="150"/><img src="https://media.giphy.com/media/QvjeXTz8HXFWyMfpvx/giphy.gif" width="30"/></h1>
 
-My name is **Marga** and I am a **Full Stack Developer** at [Invision360](https://www.invision360.com/) :computer: <!--<img src="https://user-images.githubusercontent.com/80516949/170364033-cd1c377d-bd1e-4587-8cb6-8cefea352c4f.png" width="50"/> -->
+My name is **Marga** and I am a **Full Stack Engineer** at [Invision360](https://www.invision360.com/) :computer: <!--<img src="https://user-images.githubusercontent.com/80516949/170364033-cd1c377d-bd1e-4587-8cb6-8cefea352c4f.png" width="50"/> -->
 
 ## Right now I am working on: 
 - Doing the [threejs Journey course](https://threejs-journey.com/) by [Bruno Simon](https://bruno-simon.com/)
-- Studying for the [Exam DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-gb/learn/certifications/exams/dp-900?ocid=AID3032310_QSG_529839&mkt_tok=MTU3LUdRRS0zODIAAAGDwdyEXH3bXtIIFWPoISfVZ3S5OP88L7TXyLzEFHabHJ0kZMiPKXTzsb8VhaZn9mCuN_7MJpXIONXPjJVYlntldLwLxCHW1bO05d-mwtS9lWGugG5UT6_KUdgi).
-- Working on the [Data Visualization FreeCodeCamp Certification](https://www.freecodecamp.org/learn/data-visualization/)
+- Working on the [Onject Oriented Programming in C++](https://www.coursera.org/specializations/object-oriented-programming-s12n).
+- Studying for the [Comptia A+](https://www.comptia.org/certifications/a)
 
 <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"/>
 
 
 
 ## Check out these projects :radio:
-- First Place in the [2022 MongoDB Hackathon](https://www.mongodb.com/world-2022/hackathon)!! Project: [The newsroom](https://mongo-db-hackathon-2022.vercel.app/).
+🎮 Boxed Dungeon – (GMTK Game Jam 2024) Used C# & MonoGame
+🔗 Play here
 
+🏆 The Newsroom (MongoDB Hackathon – 1st Place)
+🔗 GitHub
 
 ## What I use: 
 
@@ -33,10 +36,11 @@ My name is **Marga** and I am a **Full Stack Developer** at [Invision360](https:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## Things I love:
-<code>Animation <img src="https://media.giphy.com/media/hLPZbjV0KyHQI/giphy.gif" width="50"/> Reading <img src="https://media.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif" width="30"/> Singing <img src="https://media.giphy.com/media/W6FhqZdENkqha6ajqr/giphy.gif" width="30"/> Dancing <img src="https://media.giphy.com/media/J2T2uTE0POCSQ/giphy.gif" width="30"/> Traveling <img src="https://media.giphy.com/media/ckrbT1rPtrt1rGM19p/giphy.gif" width="30"/> </code>
+Animation <img src="https://media.giphy.com/media/hLPZbjV0KyHQI/giphy.gif" width="50"/> Reading <img src="https://media.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif" width="30"/> Singing <img src="https://media.giphy.com/media/W6FhqZdENkqha6ajqr/giphy.gif" width="30"/> Dancing <img src="https://media.giphy.com/media/J2T2uTE0POCSQ/giphy.gif" width="30"/>
 
 ## Want to say hi?
-I'm happy to talk or help when possible.
+Always happy to help :)
+If you’re working on an open-source project or an exciting initiative, feel free to reach out!
 
 ![Visitor Count](https://profile-counter.glitch.me/margacampos/count.svg)
 
