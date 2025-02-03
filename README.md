@@ -4,7 +4,7 @@ My name is **Marga** and I am a **Full Stack Engineer** at [Invision360](https:/
 
 ## Right now I am working on: 
 - Doing the [threejs Journey course](https://threejs-journey.com/) by [Bruno Simon](https://bruno-simon.com/)
-- Working on the [Onject Oriented Programming in C++](https://www.coursera.org/specializations/object-oriented-programming-s12n).
+- Working on the [Object Oriented Programming in C++](https://www.coursera.org/specializations/object-oriented-programming-s12n).
 - Studying for the [Comptia A+](https://www.comptia.org/certifications/a)
 
 <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"/>
@@ -13,10 +13,10 @@ My name is **Marga** and I am a **Full Stack Engineer** at [Invision360](https:/
 
 ## Check out these projects :radio:
 🎮 Boxed Dungeon – (GMTK Game Jam 2024) Used C# & MonoGame
-🔗 Play here
+🔗 [Play here](https://margacampos.itch.io/boxed-dungeon)
 
 🏆 The Newsroom (MongoDB Hackathon – 1st Place)
-🔗 GitHub
+🔗 [GitHub](https://github.com/margacampos/MongoDB-hackathon-2022)
 
 ## What I use: 
 
