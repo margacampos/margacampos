@@ -9,6 +9,3 @@ My name is **Marga** and I am a **Full Stack Engineer**
 🏆 The Newsroom (MongoDB Hackathon – 1st Place)
 🔗 [GitHub](https://github.com/margacampos/MongoDB-hackathon-2022)
 
-
-![Visitor Count](https://profile-counter.glitch.me/margacampos/count.svg)
-
